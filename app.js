@@ -22,8 +22,8 @@ client.defaults = {
 };
 client.tagDefaults = {
   help: {
-    content: "https://essem.space/esmBot/commands.html",
-    author: "198198681982205953"
+    content: "https://bot.district69.rocks/d69bot/commands.html",
+    author: "171057626925236224"
   }
 };
 
