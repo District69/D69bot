@@ -9,7 +9,7 @@ D69bot is an entertainment-focused Discord bot made using [Discord.js](https://d
 ## Usage
 You can invite the bot to your server using this link: #
 
-A command list can be found [here](https://essem.space/esmBot/commands.html).
+A command list can be found [here](https://bot.district69.rocks/d69bot/commands.html).
 
 If you want to run it locally, you should install ImageMagick and FFmpeg:
 
