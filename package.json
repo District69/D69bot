@@ -1,16 +1,16 @@
 {
-  "name": "esmbot",
+  "name": "d69bot",
   "version": "1.0.0",
   "description": "A Discord bot with miscellaneous features",
   "main": "app.js",
   "engines": {
     "node": ">=8"
   },
-  "author": "Essem <smswessem@gmail.com>",
+  "author": "SVTVN <iamsvtvn@mail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheEssemCraft/esmBot.git"
+    "url": "git+https://github.com/District69/D69bot.git"
   },
   "scripts": {
     "report-coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov"
