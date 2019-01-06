@@ -1,4 +1,4 @@
-# <img src="https://github.com/TheEssemCraft/esmBot/raw/master/esmbot.png" width="128"> esmBot
+# <img src="https://i.imgur.com/sbNn3O9.png" width="128"> D69bot
 [![esmServer](https://discordapp.com/api/guilds/445231754442178561/embed.png)](https://discord.gg/QPRhesx)  ![GitHub license](https://img.shields.io/github/license/TheEssemCraft/esmBot.svg)
 
 
